@@ -1,5 +1,8 @@
 # Convertor App
 
-## Build the Docker image
-docker build -t convertor .
+אפליקציה להמרת תמונות ל-PDF.
 
+## בניית תמונת הדוקר
+
+```bash
+docker build -t convertor .
